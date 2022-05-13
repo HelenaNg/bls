@@ -1,0 +1,26 @@
+.contactBg{
+    background-repeat: no-repeat;
+}
+.bgAbout{
+    width: 100%;
+}
+.bgAbout2{
+    width: 100%;
+}
+.bgAbout3{
+    width: 100%;
+}
+.footer-link{
+    text-decoration: none;
+    color: white;
+}
+.footer-link:hover{
+    color: red;
+}
+.temoignages{
+    width: 10%;
+}
+
+.bls{
+    text-shadow: 1px 1px 2px rgb(12, 12, 12);
+}
